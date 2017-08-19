@@ -32,6 +32,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (31) Olatunbosun Gabriel, @bosunski, bosunski
 (32) Alexandrix Ikechukwu, cornevan, SpaghettiThots
 (33) Okwu Joscelyn Kinikachi, slack: joscelyn56, github: joscelyn56
+(34) Agbola Iseoluwatobi samuel (Slack:tobiagbola ,Github: agbolatobi)
 (34) Prosper Nweze, @prosperoking ,@prosperoking 
 (35) Okunniga Tosin, (github: Teegold007) (slack:teegoldz)
 (36) Olatunbosun Gabriel, @bosunski, bosunski
