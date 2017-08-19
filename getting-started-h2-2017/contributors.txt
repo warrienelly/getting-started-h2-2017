@@ -50,3 +50,5 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (49) Rachael Iwelunmor (github: rachaeliwelunmor) (slack: rachael_iwelunmor)
 (50) Ememobong Okpon git:@EmemTony slack:@ememtony
 (51) Okafor ECHE (Slack: bluecard1992, Github: alactic)
+(52) Nwonah Vincent (Slack: vnwonah, Github: vnwonah)
+(53) Okike Stanley Uchenna (Slack: stanleyokike, Github: Stankovich96)
