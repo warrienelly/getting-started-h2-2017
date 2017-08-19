@@ -1,8 +1,8 @@
-()(1) Nwanze Franklin, franko4don, @franko4don
+(1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday
 (3) Richard Umoffia (github: hackafro) (slack: richyafro)
 (4) Fregene Efe-Uririn, efefregene, efefregene
-(5) Joe-smith Essang
+(5) Joe-smith Essang (slack: @jsmyth,  github: joesmithessang)
 (6) Chinke Ifeyinwa Ruth (github: eephie) (slack: ifychinke)
 (7) Sam Esidem
 (8) Toluwalope Yussuff, tody, to-dy
@@ -18,7 +18,7 @@
 (18) Andrew Ugbechie, (slack: @andrewugbechie) (github: @DREW-certified)
 (19) Ijaware Tiwaloluwa (slack: tiwaloluu) (github: tiwalolu)
 (20) Emmanuel Awotunde, @olaoluwa_98, @olaoluwa-98
-(21) Usheninte Dangana [github: @Usheninte] [slack: @ninte]
+(21) Usheninte Dangana, @ninte, Usheninte
 (22) Daniella Mato, @daniella, dmpire
 (23) Enyi-Christopher Joshua, christofajosh, christofajosh
 (24) Ademola Abisayo Paul, @sayopaul , sayopaul2
@@ -40,7 +40,7 @@
 (40) Osideinde Oluwadara, @holumiede, holumiede
 (41) Ayodeji Bayo-Makinde, ayobaymak, ayobaymak
 (42) Agunloye Oluwatobiloba, (GitHub: @TobiLight, Slack: tobilight)
-(43) Ani Kenechi (Git-hub : @kay-cee, Slack @princekayc
+(43) Ani Kenechi (Git-hub : @kay-cee, Slack @princekayc)
 (44) Andy Eshiet, <slack:@mathemandy, github: @matheandy>
 (45) Okeke Abuchi, (Slack: @7thmind, Github: Buchiexplores)
 (46) Joseph Michael Basssey, (Slack Name: @jonesky, github: @Joseph-MB)
