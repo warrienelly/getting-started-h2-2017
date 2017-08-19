@@ -101,3 +101,4 @@
 (100) Paul Ayuk (Slack: Paul Ayuk, Github: Paulayuk) 
 (101) Okanlawon Emmanuel (Slack: solar, Github: okanlawonema)
 
+(102)Akinbode Akinlolu (Slack: weezykon, Github: weezykon)
