@@ -81,3 +81,4 @@
 (80) Grace Essien (Slack: graceessien Github: AniekanE)
 (90) Ekpoto Liberty (Slack: ekpoto, Github: delino12)
 (91) Peter Peregbakumo (Slack: peterperez, Github: peterperez)
+(92) SOMTOO OKAFOR (Slack:okaforsomtoo, Github: okaforsomtoo)
