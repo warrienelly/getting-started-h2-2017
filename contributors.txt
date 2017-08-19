@@ -98,12 +98,8 @@
 (98) ISRAEL AKPAN (Slack:israelakpan296, github:tagximum)
 (98) Nwonah Vincent (Slack: vnwonah, Github: vnwonah)
 (99) Okike Stanley Uchenna (Slack: stanleyokike, Github: Stankovich96)
-<<<<<<< HEAD
 (100) Paul Ayuk (Slack: Paul Ayuk, Github: Paulayuk)
-(101) Agbola Iseoluwatobi samuel (Slack:tobiagbola ,Github: agbolatobi) 
-=======
-(100) Paul Ayuk (Slack: Paul Ayuk, Github: Paulayuk) 
-(101) Okanlawon Emmanuel (Slack: solar, Github: okanlawonema)
->>>>>>> fcd1d887ba12696b31fd8f5825af3e354d9cbb14
-
-(102)Akinbode Akinlolu (Slack: weezykon, Github: weezykon)
+(101) Adeojo Emmanuel (Slack: adeojo emmanuel, Github: adeojoemmanuel)
+(102) Okanlawon Emmanuel (Slack: solar, Github: okanlawonema)
+(103) Emmanuel Popoola (Slack: hemmayo, GitHub, hemmayo)
+(104) Agbola Iseoluwatobi samuel (Slack:tobiagbola ,Github: agbolatobi) 
