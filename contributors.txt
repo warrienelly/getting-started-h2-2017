@@ -102,6 +102,15 @@
 (101) Adeojo Emmanuel (Slack: adeojo emmanuel, Github: adeojoemmanuel)
 (102) Okanlawon Emmanuel (Slack: solar, Github: okanlawonema)
 (103) Emmanuel Popoola (Slack: hemmayo, GitHub, hemmayo)
+<<<<<<< HEAD
 (104) Agbola Iseoluwatobi samuel (Slack:tobiagbola ,Github: agbolatobi) 
 Okoko Michaels (Slack: pangolin, Github: idoqo)
 
+=======
+<<<<<<< HEAD
+(104) Alabuja Daniel (Slack: alatech, GitHub: Alabuja)
+
+=======
+Okoko Michaels (Slack: pangolin, Github: idoqo)
+>>>>>>> 219ed2c293bfe751091f540c6b1779e2efeb8d08
+>>>>>>> 9ff0dcb38e0d9a9dfd884ccc9b7ba30eef6876db
