@@ -46,3 +46,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (45) Ojosipe-Isaac Mofopefoluwa, @MofopeOjosh, @mofope_ojosh
 (46) Salako Adetunji Abdulhaq,(github: teejay13, slack: @teejay_salako)
 (47) Andy Eshiet Inyang <slack:@mathemandy, github:@mathemandy>
+(48) david favour umoren (slack:@dxelpraise, github:@davidumoren)
