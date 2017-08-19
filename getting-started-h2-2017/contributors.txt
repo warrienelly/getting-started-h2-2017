@@ -53,4 +53,8 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (52) Nwonah Vincent (Slack: vnwonah, Github: vnwonah)
 (53) Okike Stanley Uchenna (Slack: stanleyokike, Github: Stankovich96)
 (54) Edung  Divinefavour(Slack:lawrene,  github:thriller16)
+<<<<<<< HEAD
 (55) Agbola Iseoluwatobi samuel (Slack:tobiagbola ,Github: agbolatobi)
+=======
+
+>>>>>>> 070d7df91162d35c4413448e0d3fd1801145a0fa
