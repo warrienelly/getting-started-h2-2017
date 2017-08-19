@@ -43,3 +43,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (42) Hogan Damilola Jerry, <slack:@hdaarme> <github: hdjerry>
 (43) James James John, @jamesjay4199, @jamesjay4199
 (44) Osideinde Oluwadara, @holumiede, holumiede
+(45) Ojosipe-Isaac Mofopefoluwa, @MofopeOjosh, @mofope_ojosh
