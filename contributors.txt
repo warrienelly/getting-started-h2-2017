@@ -66,7 +66,7 @@
 (66) Orie Chinedu Emmanuel (Slack: @oriechinedu Github: @oriechinedu)
 (67) Trust Akpobome (Slack: @controltam Github: @controltam)
 (68) Rachael Iwelunmor (github: rachaeliwelunmor) (slack: rachael_iwelunmor)
-(69) Gabriel Uzowulu (GitHUb: @emyguz) (Slack: @gabrieluzowulu)
+(69) Suleiman Abdulmajeed (slack: @suleimanmajiyd) github: @majiyd
 (70) Ukor Jidechi Ekundayo (Slack: @ukorjidechi, github: ukor)
 (71) Adeboga Abigail, Slack:@bogadeji Github:bogadeji
 (72) Ikhuohon-Eboreime Caleb , GitHub:calebikhuohon , slack:@calebikhuohon
@@ -103,11 +103,9 @@
 (102) Okanlawon Emmanuel (Slack: solar, Github: okanlawonema)
 (103) Emmanuel Popoola (Slack: hemmayo, GitHub, hemmayo)
 (104) Alabuja Daniel (Slack: alatech, GitHub: Alabuja)
-(105) Okoko Michaels (Slack: pangolin, Github: idoqo)
+(105)Okoko Michaels (Slack: pangolin, Github: idoqo)
+(106) Emmanuel Joseph,jekayode, jekayode
+(107) Gabriel Uzowulu (GitHUb: @emyguz) (Slack: @gabrieluzowulu)
+(108) Emmanuel Joseph,jekayode, jekayode
+(109) Edung Divinefavour(slack:lawrene , github:thriller16)
 
-<<<<<<< HEAD
-(105) Emmanuel Joseph,jekayode, jekayode
-(106) Edung Divinefavour(slack:lawrene , github:thriller16)
-=======
->>>>>>> 219ed2c293bfe751091f540c6b1779e2efeb8d08
->>>>>>> 42bcd6c426ce405a07148843c43d9ee9558b26f9
