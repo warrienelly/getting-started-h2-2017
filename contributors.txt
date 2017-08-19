@@ -71,6 +71,7 @@
 (71) Adeboga Abigail, Slack:@bogadeji Github:bogadeji
 (72) Ikhuohon-Eboreime Caleb , GitHub:calebikhuohon , slack:@calebikhuohon
 (73) Adigun Hammed Olalekan, Github:adigunhammedolalekan, slack:@adigunhammedolalekan
+<<<<<<< HEAD
 (74) Adekanmbi Yosola, mo.yosiwealth, Yosiwealth
 (75) Eniwoke Cornelius (Slack: eniwokep, Github: cornzyblack)
 <<<<<<< HEAD
@@ -81,3 +82,22 @@
 (77) Godfred Ekpenyong Akpan (Slack: godfredakpan, Github: godfredakpan)
 (78) Essien Saviour Aniefiok (Slack: @essien, Github: iamessien)
 >>>>>>> 604279c416579350cc7e8e59e690624852115eda
+||||||| merged common ancestors
+(74) Adekanmbi Yosola, mo.yosiwealth, Yosiwealth
+(75) Eniwoke Cornelius (Slack: eniwokep, Github: cornzyblack)
+(76) Orobosa Cornelius (Slack: Orobosa, Github: OrobosaV)
+(77) Godfred Ekpenyong Akpan (Slack: godfredakpan, Github: godfredakpan)
+(78) Essien Saviour Aniefiok (Slack: @essien, Github: iamessien)
+=======
+(74) Israel Akpan Github:tagximum slack:@israelakpan296
+(75) Adekanmbi Yosola, mo.yosiwealth, Yosiwealth
+(76) Eniwoke Cornelius (Slack: eniwokep, Github: cornzyblack)
+(77) Orobosa Cornelius (Slack: Orobosa, Github: OrobosaV)
+(78) Godfred Ekpenyong Akpan (Slack: godfredakpan, Github: godfredakpan)
+(79) Essien Saviour Aniefiok (Slack: @essien, Github: iamessien)
+(80) Gabriel Umoh (Slack: @gmaumoh, Github: @gabumoh)
+(81) Grace Essien (Slack: graceessien Github: AniekanE)
+(82) Ekpoto Liberty (Slack: ekpoto, Github: delino12)
+(83) Peter Peregbakumo (Slack: peterperez, Github: peterperez)
+(84) SOMTOO OKAFOR (Slack:okaforsomtoo, Github: okaforsomtoo)
+>>>>>>> 4d269d1c4bd2de77bbc251a7d4f4a0168f64f484
