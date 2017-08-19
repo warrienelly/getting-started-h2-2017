@@ -102,4 +102,5 @@
 (101) Adeojo Emmanuel (Slack: adeojo emmanuel, Github: adeojoemmanuel)
 (102) Okanlawon Emmanuel (Slack: solar, Github: okanlawonema)
 (103) Emmanuel Popoola (Slack: hemmayo, GitHub, hemmayo)
+(104) Alabuja Daniel (Slack: alatech, GitHub, Alabuja)
 
